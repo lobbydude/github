@@ -1,0 +1,11 @@
+
+volchanskyi
+
+https://github.com/volchanskyi/HybridFramework.git
+
+
+
+
+josdoaitran
+
+https://github.com/josdoaitran/SeleniumHybridFrameworkMavenJava.git
